@@ -92,7 +92,35 @@ body {
     margin: 1rem 0 0;
 }
 
+/*fonts for the various sections*/
+
+.title{
+    font-family: 'Open Sans';
+    font-size: 30px;
+}
+
+.describe{ /*bullet points*/
+    font-family: 'Patrick Hand';
+    font-size: 20px;
+}
+
+/*Ages*/
+.age{
+    font-family: 'Tangerine';
+    font-size: 25px;
+}
+
 /*the line below the title*/
+
+.line{ /*for children*/
+    content: "";
+    position: absolute;
+    height: 5px;
+    background: red;
+    width: 140px;
+    top: -0.75rem;
+    border-radius: 3px; 
+}
 .line1{ /*for teenagres*/
     content: "";
     position: absolute;
@@ -103,6 +131,16 @@ body {
     border-radius: 3px;
 }
 
+
+.line2{ /*for adults*/
+    content: "";
+    position: absolute;
+    height: 5px;
+    background: rgb(97, 199, 218);
+    width: 140px;
+    top: -0.75rem;
+    border-radius: 3px;
+}
 
 /*
 @media (min-width: 640px) {
