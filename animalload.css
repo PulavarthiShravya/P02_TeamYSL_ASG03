@@ -1,0 +1,16 @@
+
+.animation-center{  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+ }
+ 
+.loading-text{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    top: -50px;
+    position: relative;
+    font-style: italic;
+}
