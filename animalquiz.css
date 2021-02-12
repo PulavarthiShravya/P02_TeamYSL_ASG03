@@ -2,7 +2,7 @@
     display: flex;
     margin-bottom: 0.5rem;
     width: 100%;
-    font-size: 1.8rem;
+    font-size: 20px;
     border: 0.1rem solid rgb(86, 165, 235, 0.25);
     background-color: white;
 }
@@ -22,4 +22,29 @@
   
 .choice-text {
     padding: 1.5rem;
+}
+
+.correct {
+    background-color: #28a745;
+}
+  
+.incorrect {
+    background-color: #dc3545;
+}
+
+/*HUD*/
+
+#hud{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hud-prefix{
+    text-align: center;
+    font-size: 30px;
+}
+
+.hud-main-text{
+    font-size: 25px;
+    text-align: center; 
 }
