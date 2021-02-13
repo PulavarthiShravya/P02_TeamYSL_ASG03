@@ -51,7 +51,7 @@ let questions = [
 
     {
         //5
-        question: "What is the slowest animal in the world",
+        question: "What is the slowest animal in the world?",
         choice1: "Snail",
         choice2: "Sloth",
         choice3: "Cheetah",
