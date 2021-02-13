@@ -1,0 +1,14 @@
+#mathHighScoreList {
+    list-style: none; /*get rid of bullet points */
+    padding-left: 0;
+    margin-bottom: 4rem;
+}
+
+.high-score{
+    font-size: 28px;
+    margin-bottom: 0.5rem;
+}
+
+.high-score:hover{
+    transform: scale(1.025);
+}
