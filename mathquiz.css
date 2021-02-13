@@ -1,0 +1,50 @@
+.choice-container {
+    display: flex;
+    margin-bottom: 0.5rem;
+    width: 100%;
+    font-size: 20px;
+    border: 0.1rem solid rgba(235, 86, 178, 0.25);
+    background-color: white;
+}
+  
+.choice-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(235, 86, 118, 0.5);
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+}
+  
+.choice-prefix {
+    padding: 1.5rem 2.5rem;
+    background-color: #eb5694;
+    color: white;
+}
+  
+.choice-text {
+    padding: 1.5rem;
+}
+
+.correct {
+    background-color: #50b167;
+}
+  
+.incorrect {
+    background-color: #e04d5c;
+}
+
+/*HUD*/
+
+#hud{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hud-prefix{
+    text-align: center;
+    font-size: 30px;
+}
+
+.hud-main-text{
+    font-size: 25px;
+    text-align: center; 
+}
