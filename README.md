@@ -1,7 +1,7 @@
 # P02_TeamYSL_ASG03
 
 # Quizzo #
-"Mom I'm so bored. I want to have *fun*", "Mom these questions are a little to *easy*!", "Mom I want to *learn*". Wait no more! Introducing to you ##*QUIZZO*##. Your one stop web application to have fun via entertaining quizzes, learn with our knowledge quizzes specially designed for the various ages. Learn while attempting these quizzes. Try to beat the top scores!!
+"Mom I'm so bored. I want to have *fun*", "Mom these questions are a little to *easy*!", "Mom I want to *learn*". Wait no more! Introducing to you *QUIZZO*. Your one stop web application to have fun via entertaining quizzes, learn with our knowledge quizzes specially designed for the various ages. Learn while attempting these quizzes. Try to beat the top scores!!
 
 Quizzo is a web application designed by Shravya and Ywe Lin. This application was created to enteratain people of all ages. From kids all the way to adults. These quizzes are categorised based on entertainment and educational quizzes.
 
@@ -10,8 +10,9 @@ This website is catered for people of all ages. The web application is categoriz
 
 #### user stories ####
 - I want to learn something new but the tutorials are too long.
-- I am very bored at home and there is nothing to do all. I have binge watched all my series
+- I am very bored :sleeping: at home and there is nothing to do all. I have binge watched all my series
 - Why isit that my weight keep on increasing?
+ 
  With QUIZZO users would be able to get answers to all these questions!!
 
  #### XD URL ####
@@ -26,5 +27,5 @@ Teenagers     | Ages: 13 - 16 & Ages 16 - 19
 Adults        | Ages: 20 & Above
 
 
-### Feature ###
-
+### Features ###
+- Feature 1 --> Allows user to 
