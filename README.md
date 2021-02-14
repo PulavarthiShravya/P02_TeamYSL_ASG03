@@ -50,8 +50,11 @@ Adults        | Ages: 20 & Above
 
 ## Testing ##
 1. Saving details of user who did the quiz
+
     i. At the endpage for every quiz, user can choose to enter the details to save score.
+
     ii. Trying to submit an empty form would result the user not to be able to successfully submit the form.
+    
     iii. After submitting score, the user would be redirected to the homepage of the quiz.
 
 ## Credits ##
