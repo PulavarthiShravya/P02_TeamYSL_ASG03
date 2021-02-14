@@ -28,21 +28,21 @@ Adults        | Ages: 20 & Above
 
 
 ## Features ##
-- :snowflake: Allows user to browse through categories available and select the ones that is best suited to them.
+:snowflake: Allows user to browse through categories available and select the ones that is best suited to them.
 
-- :snowflake: Allows user to choose if they want to take an educational quiz or entertainment quiz.
+:snowflake: Allows user to choose if they want to take an educational quiz or entertainment quiz.
 
-- :snowflake: Every quiz is unique in its own color.
+:snowflake: Every quiz is unique in its own color.
 
-- :snowflake: During the quiz, user is able to know if the selected answer is correct or wrong. 
+:snowflake: During the quiz, user is able to know if the selected answer is correct or wrong. 
 
-- :snowflake: During the quiz, user is able to know which question he/she is at and also keep track of the score.
+:snowflake: During the quiz, user is able to know which question he/she is at and also keep track of the score.
 
-- :snowflake: At the end of the quiz user is able to know his/her score and save it.
+:snowflake: At the end of the quiz user is able to know his/her score and save it.
 
-- :snowflake: User can view the top 5 scores of the different quizzes.
+:snowflake: User can view the top 5 scores of the different quizzes.
 
-- :snowflake: Every loading page is unique and is based on the category chosen. For example, for animal quiz, the loading page is a paw. 
+:snowflake: Every loading page is unique and is based on the category chosen. For example, for animal quiz, the loading page is a paw. 
 
 
 ## Technologies Used ##
@@ -54,7 +54,7 @@ Adults        | Ages: 20 & Above
     i. At the endpage for every quiz, user can choose to enter the details to save score.
 
     ii. Trying to submit an empty form would result the user not to be able to successfully submit the form.
-    
+
     iii. After submitting score, the user would be redirected to the homepage of the quiz.
 
 ## Credits ##
