@@ -116,7 +116,7 @@ input{
     padding: 1.5rem;
     font-size: 20px;
     border: none;
-    box-shadow: 0 0.1rem 1.4rem rgba(86, 185, 235, 0.5);
+    box-shadow: 0 0.1rem 1.4rem rgba(86, 235, 178, 0.5);
 }
 
 input ::placeholder{
