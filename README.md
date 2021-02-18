@@ -97,7 +97,7 @@ We received inspiration from quiz entertaining applications like Buzzfeed. :hone
 
 ### Our Learning Experiences ###
 - Shravya
-    - Given the fact that we started our project a little late due to other assignments have early due dates, the first few days were slightly stressful as I was worried that the project would not be handed in time. However I enjoyed doing this project as I learned more on Javascript such as using css in JS and using html elements as well. :palm_tree: :new_moon_with_face:
+    - Given the fact that we started our project a little late due to other assignments have early due dates, the first few days were slightly stressful as I was worried that the project would not be handed in time. However I enjoyed doing this project as I learned more on Javascript such as using css in JS and using html elements as well. And I would not have done it wothout my partner too.  :palm_tree: :new_moon_with_face:
 
 - Ywe Lin
     - To be honest, I was a bit scared to start this project at first since I feel like I'm weak in ID. However, once I started, I was drawn to it. My partner, Shravya was also really helpful and inspiring to me. I believe we both did great job!!:+1: I got more in-depth knowledge about javascript, json and other related topics such as using local storage and fetch throughout the project. 
