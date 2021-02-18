@@ -45,6 +45,8 @@ Adults        | Ages: 20 & Above
 
 :snowflake: The animation for every loading page is unique and is based on the category chosen. For example, for animal quiz, the loading page is a paw. 
 
+:snowflake: User can access any pages at ease via navigation bar provided at the top left of each page.
+
 #### Features Left to Implement ####
 :snowflake: Time limit - set time limit for each quiz and offer bonus points to fast players
 
@@ -77,6 +79,8 @@ Adults        | Ages: 20 & Above
     ii. Trying to submit an empty form would result the user not to be able to successfully submit the form.
 
     iii. After submitting score, the user would be redirected to the homepage of the quiz.
+    
+    ## [Github page link](https://pulavarthishravya.github.io/P02_TeamYSL_ASG03/) ##
 
 ## Credits ##
 
