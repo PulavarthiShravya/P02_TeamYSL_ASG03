@@ -1,5 +1,5 @@
 /* Split the screen in half */
-.split {
+.body {
     height: 100%;
     width: 50%;
     position: fixed;
@@ -10,13 +10,13 @@
   }
   
   /* Control the left side */
-  .left {
+  .body {
     left: 0;
     background-color: lightgreen;
   }
   
   /* Control the right side */
-  .right {
+  .body {
     right: 0;
     background-color: tomato;
   }
@@ -60,7 +60,7 @@ div {
     user-select: none;
     letter-spacing: 1px;
     color: white;
-    padding: 20px 50px;
+    padding: 20px 40px;
     text-transform: uppercase;
     transition: all 0.1s ease-out;
 }
