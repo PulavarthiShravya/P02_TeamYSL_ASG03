@@ -54,20 +54,20 @@ Adults        | Ages: 20 & Above
 
 
 ## Technologies Used ##
-- [Html] (https://www.w3schools.com/html/default.asp target="_blank") was used to define the contents of web pages.
-- [Css] (https://www.w3schools.com/css/default.asp) was used to specify to layout of web pages.
-- [Javascript] (https://www.w3schools.com/js/default.asp) was used to program the behaviour of web pages.
-- [JSON] (https://www.w3schools.com/js/js_json_intro.asp) was used for transmitting data in web application.
+- [Html](https://www.w3schools.com/html/default.asp) was used to define the contents of web pages.
+- [Css](https://www.w3schools.com/css/default.asp) was used to specify to layout of web pages.
+- [Javascript](https://www.w3schools.com/js/default.asp) was used to program the behaviour of web pages.
+- [JSON](https://www.w3schools.com/js/js_json_intro.asp) was used for transmitting data in web application.
 - [Lottie](https://lottiefiles.com/search?q=loading&category=animations) animation was used for the various loading pages.
-- Quiz API:[Open Trivia Database] (https://opentdb.com/) was used to access JSON API to retrieve trivia questions for quizzes.
+- Quiz API:[Open Trivia Database](https://opentdb.com/) was used to access JSON API to retrieve trivia questions for quizzes.
 
 ## Tools Used ##
 - Visual Studio Code
 - Github
 - Adobe XD
-- [W3C CSS Validation Service] (https://jigsaw.w3.org/css-validator/)
-- [Nu HTML Checker] (https://validator.w3.org/)
-- [Spell Checker] (https://typosaur.us/)
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+- [Nu HTML Checker](https://validator.w3.org/)
+- [Spell Checker](https://typosaur.us/)
 
 ## Testing ##
 1. Saving details of user who did the quiz
@@ -84,10 +84,10 @@ Adults        | Ages: 20 & Above
 - The various "decorations" in this text was referenced from markdown cheatsheet :innocent: :grimacing:
 
 ### Codes ###
-- [W3 Schools] (https://www.w3schools.com/default.asp)
+- [W3 Schools](https://www.w3schools.com/default.asp)
 
 ### Fonts ###
-- [Google Fonts] (https://fonts.google.com/)
+- [Google Fonts](https://fonts.google.com/)
 
 ### Media ###
 - The images were used from google images
