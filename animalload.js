@@ -1,6 +1,6 @@
-//after loading for less than a second, bring user to play game page
+//load for 3 seconds
 
-setTimeout(myFunction, 1000);
+setTimeout(myFunction, 3000);
 
 function myFunction(){
   location.href = "animalquiz.html";

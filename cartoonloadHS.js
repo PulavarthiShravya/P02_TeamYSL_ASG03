@@ -1,6 +1,6 @@
-//after loading for less than a second, bring user to play game page
+//load for 3 seconds before bringing user to highscore -- cartoon
 
-setTimeout(myFunction, 2000);
+setTimeout(myFunction, 3000);
 
 function myFunction(){
   location.href = "cartoonHS.html";

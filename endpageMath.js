@@ -6,7 +6,6 @@ const mostRecentScore = localStorage.getItem('mathScore');
 const mathHighScore = JSON.parse(localStorage.getItem("mathHighScore")) || [];
 
 const MAX_HIGH_MATH_SCORES = 5;
-//console.log(mathHighScore);
 
 finalScore.innerText = mostRecentScore;
 
