@@ -113,3 +113,5 @@ https://pulavarthishravya.github.io/P02_TeamYSL_ASG03/
 
 ### Demonstrating of QUIZZO ###
 [QuizzoDemo](https://docs.google.com/presentation/d/1H6tDRYk6TfBFPyNyugIPKeBA2O1Hn4i57AZvxajV1Mk/edit?usp=sharing)
+
+For demo video inside the files uploaded, do download to view it. :D
