@@ -110,3 +110,6 @@ We received inspiration from quiz entertaining applications like Buzzfeed. :hone
 [Quizzo!](https://pulavarthishravya.github.io/P02_TeamYSL_ASG03/)
 
 https://pulavarthishravya.github.io/P02_TeamYSL_ASG03/
+
+### Demonstrating of QUIZZO ###
+[QuizzoDemo](https://docs.google.com/presentation/d/1H6tDRYk6TfBFPyNyugIPKeBA2O1Hn4i57AZvxajV1Mk/edit?usp=sharing)
