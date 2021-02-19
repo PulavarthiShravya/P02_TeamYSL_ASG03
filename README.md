@@ -80,7 +80,7 @@ Adults        | Ages: 20 & Above
 
     iii. After submitting score, the user would be redirected to the homepage of the quiz.
     
-    ## [Github page link](https://pulavarthishravya.github.io/P02_TeamYSL_ASG03/) ##
+    #### [Github page link](https://pulavarthishravya.github.io/P02_TeamYSL_ASG03/) ####
 
 ## Credits ##
 
