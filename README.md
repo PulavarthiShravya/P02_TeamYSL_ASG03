@@ -105,3 +105,8 @@ We received inspiration from quiz entertaining applications like Buzzfeed. :hone
 
 - Ywe Lin
     - To be honest, I was a bit scared to start this project at first since I feel like I'm weak in ID. However, once I started, I was drawn to it. My partner, Shravya was also really helpful and inspiring to me. I believe we both did great job!!:+1: I got more in-depth knowledge about javascript, json and other related topics such as using local storage and fetch throughout the project. 
+
+### Access QUIZZO now! ###
+[Quizzo!](https://pulavarthishravya.github.io/P02_TeamYSL_ASG03/)
+
+https://pulavarthishravya.github.io/P02_TeamYSL_ASG03/
